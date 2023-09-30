@@ -24,10 +24,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-[IKtN.gif)](https://i.imgur.com/ZCeIKtN.gif)
+[Video Walkthrough](https://i.imgur.com/ZCeIKtN.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with Kap
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
