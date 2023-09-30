@@ -24,7 +24,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='[http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough](https://i.imgur.com/ZCeIKtN.gif)' width='' alt='Video Walkthrough' />
+[IKtN.gif)](https://i.imgur.com/ZCeIKtN.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
@@ -35,11 +35,11 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Some problems that I am still facing are styling things as well as keeping components the same size. In React, I learned that it can be hard for styling and having components overwrite each other.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2023 Eddy Qiu
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
